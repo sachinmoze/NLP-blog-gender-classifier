@@ -1,5 +1,5 @@
 Flask==2.0.1
-joblib==1.1.0
+joblib==latest
 numpy==latest
 pandas==latest
 scikit-learn==0.24.2
