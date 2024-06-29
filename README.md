@@ -2,6 +2,9 @@
 
 This project is a Flask-based web application that predicts the gender of the author based on the text of a blog post. It utilizes a Naive Bayes model trained on a dataset of blog posts to perform the prediction.
 
+![image](https://github.com/sachinmoze/NLP-blog-gender-classifier/assets/83491841/8325c13d-9201-4174-b7c0-a250571b9c16)
+
+
 ## Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
