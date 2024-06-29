@@ -44,7 +44,7 @@ To run the application locally:
 
 2. Open a web browser and navigate to:
     ```
-    http://127.0.0.1:5000/
+    http://127.0.0.1:5000/predict
     ```
 
 You should now be able to see the application's home page, where you can enter blog text and receive a gender prediction.
