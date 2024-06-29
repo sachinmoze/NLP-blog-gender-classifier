@@ -17,12 +17,12 @@ Ensure you have the following requirements before starting:
 
 1. Clone the repository to your local machine:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/sachinmoze/NLP-blog-gender-classifier.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd <project-directory>
+    cd NLP-blog-gender-classifier
     ```
 
 3. Install the required Python packages:
